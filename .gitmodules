@@ -1,0 +1,12 @@
+[submodule "PPL-Ass1"]
+	path = PPL-Ass1
+	url = git@github.com:roeylange/PPL-Ass1.git
+[submodule "PPL-Ass2"]
+	path = PPL-Ass2
+	url = git@github.com:roeylange/PPL-Ass2.git
+[submodule "PPL-Ass3"]
+	path = PPL-Ass3
+	url = https://github.com/roeylange/PPL-Ass3
+[submodule "PPL-Ass4"]
+	path = PPL-Ass4
+	url = https://github.com/roeylange/PPL-Ass4
