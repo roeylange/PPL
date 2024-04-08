@@ -14,7 +14,6 @@ This repository contains solutions to four assignments for the Principles of Pro
   - `tsconfig.json`: Specifies TypeScript compiler options.
   - `src`: Contains TypeScript files to be implemented.
   - `test`: Contains test files.
-- **Submission:** Zip file with `answers.pdf`, `part1`, and `part2` folders.
 
 ### Assignment 2: Asynchronous Programming with TypeScript
 - **Topics Covered:** Asynchronous programming, promises, async/await
@@ -24,7 +23,6 @@ This repository contains solutions to four assignments for the Principles of Pro
   - `package.json`: Contains dependencies for the project.
   - `tsconfig.json`: Specifies TypeScript compiler options.
   - `src`: Contains TypeScript files to be implemented.
-- **Submission:** Zip file with `answers.pdf` and `part2` folder.
 
 ### Assignment 3: Functional Programming in TypeScript
 - **Topics Covered:** Functional programming concepts, higher-order functions, currying
@@ -42,9 +40,6 @@ This repository contains solutions to four assignments for the Principles of Pro
 - **Folder:** `assignment4`
 - **Files:**
   - `src`: Contains TypeScript files to be implemented.
-- **Submission:** Zip file with `answers.pdf`, `part2`, and `part3` folders.
-
-Each assignment folder contains specific instructions, code templates, and test cases to guide the implementation process. The submissions are expected to adhere to the provided guidelines and folder structures to ensure smooth grading.
 
 
 ## Instructions
